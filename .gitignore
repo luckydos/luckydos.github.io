@@ -1,2 +1,5 @@
-# Ignore repl.it
+# Repl.it
 .replit
+
+# goorm
+goorm.manifest
