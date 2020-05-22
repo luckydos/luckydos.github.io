@@ -12,6 +12,8 @@ hr { margin: 20px auto; }
 .leftBar.red { border-left-color: #F00; }
 .leftBar.green { border-left-color: #0F0; }
 
+.alc { text-align: center; }
+
 .btnA {
 	/*width: 100%;*/
 	height: 60px;
