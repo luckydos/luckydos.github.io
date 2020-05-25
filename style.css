@@ -1,7 +1,7 @@
 body { border: 0; }
 hr { margin: 20px auto; }
 
-#mainWrap { width: 800px; margin: 0 auto; padding: 1rem; background-color: #e6e6e6; }
+#mainWrap { max-width: 800px; margin: 0 auto; padding: 1rem; background-color: #e6e6e6; }
 .leftBar {
 	border-left: 5px solid #385ccb;
 	padding: 7px 10px 5px;
