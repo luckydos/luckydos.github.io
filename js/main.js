@@ -7,8 +7,6 @@ Array.from(document.getElementsByClassName('btnA')).forEach(function(target) {
 			location.href='https://luckydos.github.io';
 		} else if(target.getAttribute('value') === 'move To dreamCoding') {
 			location.href='https://luckydos.github.io/dreamCoding';
-		} else if(target.getAttribute('value') === 'move To gbschool') {
-			location.href='https://luckydos.github.io/gbschool';
 		}
 	});
 });
